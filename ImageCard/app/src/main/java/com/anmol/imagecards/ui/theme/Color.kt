@@ -1,4 +1,4 @@
-package com.example.firstjetpack.ui.theme
+package com.anmol.imagecards.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

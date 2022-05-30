@@ -1,4 +1,4 @@
-package com.example.firstjetpack
+package com.anmol.imagecards
 
 import org.junit.Test
 

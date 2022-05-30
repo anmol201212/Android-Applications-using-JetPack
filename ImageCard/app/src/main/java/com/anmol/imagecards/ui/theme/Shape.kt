@@ -1,4 +1,4 @@
-package com.example.firstjetpack.ui.theme
+package com.anmol.imagecards.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
